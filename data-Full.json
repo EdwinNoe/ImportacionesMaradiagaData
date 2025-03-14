@@ -19,6 +19,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280856/IMG-20250222-WA0039_ayvye8.jpg"
         ],
         "marca": "CHEVROLET",
+        "vendido":false,
         "modelo": "COLORADO LT  4*4",
         "año": "2016",
         "millas": "132,144",
@@ -47,6 +48,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280864/IMG-20250222-WA0058_it2xzy.jpg"
         ],
         "marca": "CHEVROLET",
+        "vendido":false,
         "modelo": "COLORADO Z71  4*4",
         "año": "2016",
         "millas": "175,099",
@@ -76,6 +78,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280869/IMG-20250222-WA0119_bmdzan.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "ESCAPE S",
         "año": "2014",
         "millas": "181,713",
@@ -106,6 +109,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280851/IMG-20250222-WA0477_tzptmy.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "ESCAPE SE TECHO PANORAMICO",
         "año": "2016",
         "millas": "176,957",
@@ -136,6 +140,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280877/IMG-20250222-WA0323_iimzg8.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "EXPLORER XLT",
         "año": "2012",
         "millas": "181,930",
@@ -166,6 +171,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280885/IMG-20250222-WA0347_vsgemj.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "EXPLORER XLT",
         "año": "2016",
         "millas": "192,278",
@@ -201,6 +207,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280893/IMG-20250222-WA0278_kobgvx.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "EXPLORER XLT",
         "año": "2020",
         "millas": "117,977",
@@ -234,6 +241,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280902/IMG-20250222-WA0262_n1w41b.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CIVIC LX",
         "año": "2012",
         "millas": "180,870",
@@ -264,6 +272,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280915/IMG-20250222-WA0496_mdm97h.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CIVIC LX",
         "año": "2013",
         "millas": "229,601",
@@ -294,6 +303,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280917/IMG-20250222-WA0137_jhih2j.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV 4x4",
         "año": "2015",
         "millas": "121,825",
@@ -324,6 +334,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280936/IMG-20250222-WA0165_fmndnz.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV EX 4x4",
         "año": "2012",
         "millas": "190,533",
@@ -353,6 +364,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281016/IMG-20250222-WA0415_zlw7jj.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "FIT EX",
         "año": "2016",
         "millas": "170,649",
@@ -383,6 +395,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281027/IMG-20250222-WA0227_likpwr.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "FIT LX",
         "año": "2016",
         "millas": "142,926",
@@ -414,6 +427,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281035/IMG-20250222-WA0237_gyaihj.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "FIT LX",
         "año": "2016",
         "millas": "147,706",
@@ -444,6 +458,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281046/IMG-20250222-WA0403_cyzsnp.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "FIT LX",
         "año": "2017",
         "millas": "207,017",
@@ -475,6 +490,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281049/IMG-20250222-WA0381_qhvoqd.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "HR-V SPORT",
         "año": "2020",
         "millas": "68,000",
@@ -505,6 +521,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281054/IMG-20250222-WA0197_jifwke.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "ELANTRA GLS",
         "año": "2013",
         "millas": "177,457",
@@ -535,6 +552,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281063/IMG-20250222-WA0441_kio0w9.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "ELANTRA SEL",
         "año": "2017",
         "millas": "132,875",
@@ -566,6 +584,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281174/IMG-20250222-WA0371_p01hgz.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "SANTA FE SPORT 2.0T",
         "año": "2013",
         "millas": "104,379",
@@ -599,6 +618,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281196/IMG-20250222-WA0313_ww4zky.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "SANTA FE SPORT",
         "año": "2018",
         "millas": "139,635",
@@ -629,6 +649,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281212/IMG-20250222-WA0131_vljyib.jpg"
         ],
         "marca": "SCION",
+        "vendido":false,
         "modelo": "FR-S",
         "año": "2013",
         "millas": "180,691",
@@ -660,6 +681,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740594839/PHOTO-2025-02-25-21-08-09_4_yttmvx.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CIVIC EX",
         "año": "2016",
         "millas": "162,697",
@@ -691,6 +713,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740594849/PHOTO-2025-02-25-21-07-01_5_zv6xcx.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CIVIC SI",
         "año": "2007",
         "millas": "214,435",
@@ -720,6 +743,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740594854/PHOTO-2025-02-25-21-03-35_ia7ohw.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV SE",
         "año": "2011",
         "millas": "288,316",
@@ -749,6 +773,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740781785/PHOTO-2025-02-27-20-58-32_gnresi.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "ESCAPE",
         "año": 2017,
         "millas": "194,906",
@@ -779,6 +804,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740781785/PHOTO-2025-02-27-21-01-57_4_zsshkm.jpg"
         ],
         "marca": "FORD",
+        "vendido":false,
         "modelo": "ESCAPE Titanium",
         "año": 2020,
         "millas": "34,701",
@@ -808,6 +834,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740783919/PHOTO-2025-02-27-20-54-22_w3tr3x.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV EX",
         "año": 2016,
         "millas": "157,149",
@@ -839,6 +866,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740783923/PHOTO-2025-02-27-20-52-04_1_m522vz.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "ELANTRA ",
         "año": 2017,
         "millas": "132,201",
@@ -868,6 +896,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741199665/PHOTO-2025-03-04-22-51-03_scktr5.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV EX",
         "año": "2016",
         "millas": "187,227",
@@ -890,6 +919,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741224678/Rectangle_8_bsn8gf.png"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "Fit",
         "año": "2010",
         "millas": "178,800",
@@ -920,6 +950,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741818583/PHOTO-2025-03-11-22-11-11_2_pmc6l1.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV",
         "año": "2012",
         "millas": "198,942",
@@ -951,6 +982,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741818955/PHOTO-2025-03-11-22-07-37_ekn7lc.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV ex",
         "año": "2018",
         "millas": "115,805",
@@ -981,6 +1013,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741819443/PHOTO-2025-03-11-22-12-37_5_x8dutw.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV  EXL ",
         "año": "2015",
         "millas": "189,825",
@@ -1011,6 +1044,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741819805/PHOTO-2025-03-11-22-13-32_3_b3irew.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "CRV  EXL ",
         "año": "2018",
         "millas": "153,565",
@@ -1035,6 +1069,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741820446/PHOTO-2025-03-11-22-05-36_hsk8xy.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "Fit ex",
         "año": "2016",
         "millas": "72xxx",
@@ -1065,6 +1100,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741820598/PHOTO-2025-03-11-22-02-18_unofxi.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "Fit LX",
         "año": "2015",
         "millas": "156,958",
@@ -1095,6 +1131,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741820993/PHOTO-2025-03-11-22-14-43_1_kxa4co.jpg"
         ],
         "marca": "HONDA",
+        "vendido":false,
         "modelo": "pilot",
         "año": "2010",
         "millas": "225,202",
@@ -1125,6 +1162,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821429/PHOTO-2025-03-11-22-00-22_1_rk654w.jpg"
         ],
         "marca": "HYUNDAI",
+        "vendido":false,
         "modelo": "Santa Fe",
         "año": "2019",
         "millas": "143,525",
@@ -1156,6 +1194,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821640/PHOTO-2025-03-11-22-09-37_fvqc6r.jpg"
         ],
         "marca": "KIA",
+        "vendido":false,
         "modelo": "Sorento",
         "año": "2016",
         "millas": "151,876",
@@ -1187,6 +1226,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741199676/PHOTO-2025-03-04-22-49-37_retcui.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV SE",
         "año": "2016",
         "millas": "137xxx",
@@ -1218,6 +1258,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280905/IMG-20250222-WA0112_iczz2w.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CIVIC EX",
         "año": "2016",
         "millas": "109,000",
@@ -1250,6 +1291,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280924/IMG-20250222-WA0450_pmgkaa.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX",
         "año": "2002",
         "millas": "211,475",
@@ -1281,6 +1323,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280930/IMG-20250222-WA0182_wqxxln.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX 4x4",
         "año": "2011",
         "millas": "223,849",
@@ -1312,6 +1355,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280947/IMG-20250222-WA0161_ierkzn.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX 4x4",
         "año": "2018",
         "millas": "128,125",
@@ -1340,6 +1384,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281005/IMG-20250222-WA0297_ey0t2o.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV LX",
         "año": "2005",
         "millas": "268,093",
@@ -1366,6 +1411,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281007/IMG-20250222-WA0417_zsiwe5.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX",
         "año": "2004",
         "millas": "237,002",
@@ -1396,6 +1442,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281205/IMG-20250222-WA0072_e5pqde.jpg"
         ],
         "marca": "NISSAN",
+        "vendido":true,
         "modelo": "FRONTIER SE 4x4",
         "año": "2008",
         "millas": "155,720",
@@ -1426,6 +1473,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281220/IMG-20250222-WA0003_xw2lwz.jpg"
         ],
         "marca": "TOYOTA",
+        "vendido":true,
         "modelo": "RAV4",
         "año": "2010",
         "millas": "171,572",
@@ -1456,7 +1504,8 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281229/IMG-20250222-WA0431_xoxxki.jpg",
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281228/IMG-20250222-WA0364_xmrpfi.jpg"
         ],
-        "marca": "TOYOTA",
+        "marca": "true",
+        "vendido":false,
         "modelo": "RAV-4",
         "año": "2013",
         "millas": "153,183",
@@ -1485,6 +1534,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740781790/PHOTO-2025-02-27-20-49-46_1_d339sh.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX",
         "año": 2015,
         "millas": "177,543",
@@ -1515,6 +1565,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740783895/PHOTO-2025-02-27-20-55-45_upvfsg.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV EX",
         "año": 2016,
         "millas": "137,017",
@@ -1548,6 +1599,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740783951/PHOTO-2025-02-27-20-50-51_3_gi3gs8.jpg"
         ],
         "marca": "HONDA",
+        "vendido":true,
         "modelo": "CRV LX ",
         "año": 2010,
         "millas": "184,441",
@@ -1573,6 +1625,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741225922/Rectangle_20_zpfdxd.png"
         ],
         "marca": "CHEVROLET",
+        "vendido":true,
         "modelo": "COLORADO  4x4",
         "año": "2016",
         "millas": "161xxx",
