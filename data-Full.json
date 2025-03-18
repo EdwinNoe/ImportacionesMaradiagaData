@@ -1,35 +1,5 @@
 [
     {
-        "id": 0,
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280860/IMG-20250222-WA0049_buhjvf.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280859/IMG-20250222-WA0047_qr48xl.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280858/IMG-20250222-WA0045_pxvsaz.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280857/IMG-20250222-WA0044_uigisd.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280857/IMG-20250222-WA0043_stj1ie.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280854/IMG-20250222-WA0038_dtw4ea.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280854/IMG-20250222-WA0037_kxnsy7.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280853/IMG-20250222-WA0035_abpder.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280853/IMG-20250222-WA0033_l2behz.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280856/IMG-20250222-WA0042_tvkz7g.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280860/IMG-20250222-WA0050_z5pmvg.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280858/IMG-20250222-WA0046_qknhpa.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280859/IMG-20250222-WA0048_cdqr2o.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280856/IMG-20250222-WA0041_osu2tu.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280856/IMG-20250222-WA0039_ayvye8.jpg"
-        ],
-        "marca": "CHEVROLET",
-        "vendido":false,
-        "modelo": "COLORADO LT  4*4",
-        "año": "2016",
-        "millas": "132,144",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ENCIENDE ",
-        "detalles": "",
-        "precio": "280,000",
-        "grua_incluida": "NO"
-    },
-    {
         "id": 1,
         "imagen_url": [
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280867/IMG-20250222-WA0067_rxp2ya.jpg",
